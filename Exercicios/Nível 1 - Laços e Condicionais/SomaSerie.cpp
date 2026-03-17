@@ -1,3 +1,19 @@
+/*
+____________________________________________________________________
+ Projeto  : Soma de Série
+ Exercício: 1.6 — Nível 1 (Laços e Condicionais)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Some os N primeiros inteiros com um laço e compare com a fórmula
+   fechada N*(N+1)/2, confirmando que os resultados são iguais.
+____________________________________________________________________
+ Entradas : N (inteiro)
+ Saídas   : Soma pelo laço, soma pela fórmula e comparação
+____________________________________________________________________
+*/
+
 #include <iostream>
 #include <windows.h>
 

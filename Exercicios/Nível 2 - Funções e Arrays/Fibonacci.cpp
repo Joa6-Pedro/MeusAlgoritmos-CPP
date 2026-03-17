@@ -1,14 +1,17 @@
 /*
-*************************************************************************************
-Requisito: 
-    Leia um número N e gere os N primeiros termos da sequência de Fibonacci.
-    Implemente duas versões em funções separadas:
-    - fibIterativo(int n) — usando while ou for
-    - fibRecursivo(int n) — chamando a própria função
-
-Autor: Eu mesmo;
-Data: 17/03/26.
-*************************************************************************************
+____________________________________________________________________
+ Projeto  : Fibonacci
+ Exercício: 2.3 — Nível 2 (Funções e Arrays)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Gera os N primeiros termos da sequência de Fibonacci em duas
+   versões: iterativa (for) e recursiva.
+____________________________________________________________________
+ Entradas : N (quantidade de termos)
+ Saídas   : Sequência iterativa e recursiva lado a lado
+____________________________________________________________________
 */
 
 #include <iostream>

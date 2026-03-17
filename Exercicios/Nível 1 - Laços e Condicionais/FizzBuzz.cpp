@@ -1,3 +1,19 @@
+/*
+____________________________________________________________________
+ Projeto  : FizzBuzz
+ Exercício: 1.4 — Nível 1 (Laços e Condicionais)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   De 1 a 100: múltiplos de 3 imprime "Fizz", de 5 imprime "Buzz",
+   de ambos imprime "FizzBuzz", caso contrário o número.
+____________________________________________________________________
+ Entradas : Nenhuma
+ Saídas   : Sequência de 1 a 100 com Fizz/Buzz/FizzBuzz
+____________________________________________________________________
+*/
+
 #include <iostream>
 
 int main() {

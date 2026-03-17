@@ -1,3 +1,18 @@
+/*
+____________________________________________________________________
+ Projeto  : Par ou Ímpar
+ Exercício: 1.2 — Nível 1 (Laços e Condicionais)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Leia um inteiro e diga se é par, ímpar ou zero.
+____________________________________________________________________
+ Entradas : Um número inteiro
+ Saídas   : "par", "ímpar" ou "zero"
+____________________________________________________________________
+*/
+
 #include <iostream>
 
 int main() {

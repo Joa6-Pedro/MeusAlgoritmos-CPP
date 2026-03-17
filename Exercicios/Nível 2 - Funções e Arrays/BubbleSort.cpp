@@ -1,14 +1,19 @@
 /*
-*******************************************************************************************
-                                    BUBBLE SORT
-Requisito: leia N números inteiros, armazene em um array e ordene usando o algoritmo
-de ordenação por bolha. Exiba o array antes e depois da ordenação.
-
-autor: Eu mesmo;
-data: 17/03/26;
-
-*******************************************************************************************
+____________________________________________________________________
+ Projeto  : Bubble Sort
+ Exercício: 2.2 — Nível 2 (Funções e Arrays)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Gera N números aleatórios, armazena em array dinâmico e ordena
+   usando o algoritmo de ordenação por bolha otimizado com flag.
+____________________________________________________________________
+ Entradas : N (quantidade de números)
+ Saídas   : Array antes e depois da ordenação
+____________________________________________________________________
 */
+
 
 #include <iostream>
 #include <cstdlib>

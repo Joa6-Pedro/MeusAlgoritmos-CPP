@@ -4,7 +4,6 @@ ____________________________________________________________________
  Exercício: 2.5 — Nível 2 (Funções e Arrays)
  Autor    : Joa6Pedro
  Data     : 17/03/26
-
 ____________________________________________________________________
  Descrição:
    Leia um número N e liste todos os primos de 2 até N usando

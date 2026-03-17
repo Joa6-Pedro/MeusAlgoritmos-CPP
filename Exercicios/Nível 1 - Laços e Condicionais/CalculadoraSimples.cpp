@@ -1,3 +1,18 @@
+/*
+____________________________________________________________________
+ Projeto  : Calculadora Simples
+ Exercício: 1.1 — Nível 1 (Laços e Condicionais)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Leia dois números e uma operação (+, -, *, /) e exiba o resultado.
+____________________________________________________________________
+ Entradas : Operação (char), dois números (float)
+ Saídas   : Resultado da operação
+____________________________________________________________________
+*/
+
 #include <iostream>
 
 int main() {

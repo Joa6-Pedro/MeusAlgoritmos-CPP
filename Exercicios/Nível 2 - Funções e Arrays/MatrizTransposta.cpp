@@ -2,18 +2,18 @@
 ____________________________________________________________________
  Projeto  : Matriz Transposta
  Exercício: 2.4 — Nível 2 (Funções e Arrays)
- Autor    : Eu mesmo
+ Autor    : Joa6Pedro
  Data     : 17/03/26
- Versão   : v1
 ____________________________________________________________________
  Descrição:
    Leia uma matriz N×N, exiba a matriz original e sua transposta.
-   A transposição é feita em função separada.
+   A transposição é feita em função separada com alocação dinâmica.
 ____________________________________________________________________
  Entradas : N (tamanho), valores da matriz
  Saídas   : Matriz original e transposta formatadas
 ____________________________________________________________________
 */
+
 
 #include <iostream>
 #include <cstdlib>

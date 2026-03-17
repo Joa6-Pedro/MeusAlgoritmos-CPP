@@ -1,3 +1,19 @@
+/*
+____________________________________________________________________
+ Projeto  : Palíndromo
+ Exercício: 2.1 — Nível 2 (Funções e Arrays)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Leia uma palavra e verifique se ela é igual ao seu reverso.
+   A lógica de verificação está em função separada.
+____________________________________________________________________
+ Entradas : Uma palavra (string)
+ Saídas   : "é um palíndromo" ou "não é um palíndromo"
+____________________________________________________________________
+*/
+
 #include <iostream>
 #include <windows.h>
 #include <string>

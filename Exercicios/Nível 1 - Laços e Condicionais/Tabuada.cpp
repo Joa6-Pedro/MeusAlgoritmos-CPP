@@ -1,3 +1,18 @@
+/*
+____________________________________________________________________
+ Projeto  : Tabuada
+ Exercício: 1.3 — Nível 1 (Laços e Condicionais)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Leia um número e imprima sua tabuada de 1 a 10.
+____________________________________________________________________
+ Entradas : Um número inteiro
+ Saídas   : Tabuada formatada de 1 a 10
+____________________________________________________________________
+*/
+
 #include <iostream>
 #include <windows.h>
 

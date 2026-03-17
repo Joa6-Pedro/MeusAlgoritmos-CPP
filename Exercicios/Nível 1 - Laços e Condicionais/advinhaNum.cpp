@@ -1,3 +1,19 @@
+/*
+____________________________________________________________________
+ Projeto  : Adivinha o Número
+ Exercício: 1.5 — Nível 1 (Laços e Condicionais)
+ Autor    : Joa6Pedro
+ Data     : 17/03/26
+____________________________________________________________________
+ Descrição:
+   Sorteia um número de 1 a 100 e dá dicas "maior/menor" a cada
+   tentativa do usuário até ele acertar.
+____________________________________________________________________
+ Entradas : Chutes do usuário (int)
+ Saídas   : Dicas de maior/menor e mensagem de acerto
+____________________________________________________________________
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <windows.h>
